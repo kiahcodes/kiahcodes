@@ -2,17 +2,18 @@
 
 # Hi, I'm Kiah Mandaliya 👋
 
-### Software Engineer • Full-Stack Developer • AI/ML Enthusiast
+### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
 
 <p>
-  <a href="https://kiahcodes.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://kiahcodes.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/kiah-mandaliya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
 </p>
-
 </div>
 
 ---
