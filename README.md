@@ -11,12 +11,7 @@
   <a href="https://www.linkedin.com/in/kiah-mandaliya/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kiahdmandaliya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=kiahcodes&label=Profile%20Views&color=6366f1&style=flat-square"/>
 
 </div>
 
