@@ -33,34 +33,10 @@
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,flutter,fastapi, postgres,supabase&theme=dark"/>
 </p>
 
-`C++` `Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark"/>
-</p>
-
-`ReactJS` `Flutter` `Responsive Web Design` `REST API Integration` `UI Development`
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
-</p>
-
-`FastAPI` `REST APIs` `Backend Architecture` `Authentication` `API Integration`
-
-### Databases and Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark"/>
-</p>
-
-`PostgreSQL` `MySQL` `Supabase` `Database Design` `SQL Queries`
+`C++` `Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `ReactJS` `Flutter` `FastAPI` `REST APIs` `PostgreSQL` `MySQL` `Supabase` 
 
 ### Artificial Intelligence and Machine Learning
 
@@ -80,8 +56,8 @@
 
 ### Optimization and Geospatial Tools
 
-`Google OR-Tools` `K-Means` `OSRM` `Route Optimization` `Clustering`
-`Location-Based Systems` `Logistics Optimization`
+`Google OR-Tools` `OSRM` `Route Optimization` `Clustering`
+`Logistics Optimization`
 
 ### Mobile and Computer Vision
 
@@ -177,15 +153,6 @@
   </a>
 </p>
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiahcodes&bg_color=transparent&color=6366f1&line=8b5cf6&point=ec4899&area=true&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
