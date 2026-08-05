@@ -33,7 +33,7 @@
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,flutter,fastapi, postgres,supabase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,flutter,fastapi,postgres,supabase&theme=dark" />
 </p>
 
 `C++` `Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `ReactJS` `Flutter` `FastAPI` `REST APIs` `PostgreSQL` `MySQL` `Supabase` 
