@@ -2,190 +2,40 @@
 
 # Hi, I'm Kiah Mandaliya 👋
 
-### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
+<a href="https://kiahcodes.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kiah-mandaliya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:kiahdmandaliya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<p>
-  <a href="https://kiahcodes.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kiah-mandaliya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-</p>
 </div>
 
----
-
-## About Me
-
-* 🎓 B.Tech Computer Science and Engineering student at **Nirma University**
-* 💼 AI/ML Intern at **Bonrix Software Systems**
-* 💻 Interested in **Software Engineering, Full-Stack Development, AI/ML, Data Science, and Open Source**
-* 🧠 Working with **LLMs, RAG, model deployment, optimization, and intelligent applications**
-* ⚙️ Experienced in building web, mobile, backend, data, and AI-based systems
-
----
-
-## Technical Skills
-
-### Programming Languages
+## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,flutter,fastapi,postgres,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,flutter,fastapi,postgres,supabase,docker,linux,git&theme=dark" />
 </p>
 
-`C++` `Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `ReactJS` `Flutter` `FastAPI` `REST APIs` `PostgreSQL` `MySQL` `Supabase` 
-
-### Artificial Intelligence and Machine Learning
-
-`Machine Learning` `Deep Learning` `Large Language Models` `Retrieval-Augmented Generation`
-`Natural Language Processing` `K-Means Clustering` `Model Evaluation` `Data Preprocessing`
-`Feature Engineering` `Scikit-learn` `Pandas` 
-
-### LLM and Generative AI
-
-`vLLM` `Ollama` `RAG`
-`Long Context GPU Optimization` `FP8 Inference` `LLM Deployment` `Multi-User AI Systems`
-
-### Data Science and Analytics
-
-`Data Cleaning` `Exploratory Data Analysis` `Data Visualization` `Statistical Analysis`
-`Matplotlib` `Pandas` `NumPy` `Dataset Analysis` `Model Comparison`
-
-### Optimization and Geospatial Tools
-
-`Google OR-Tools` `OSRM` `Route Optimization` `Clustering`
-`Logistics Optimization`
-
-### Mobile and Computer Vision
-
-`Flutter` `Google ML Kit` `OCR` `TTS` `STT` `Voice-Based Interaction`
-
-### Tools and Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
-</p>
-
-`Git` `GitHub` `Docker` `Linux` `VS Code` `SSH` `Cloud GPU Deployment`
-`Google Colab` `Jupyter Notebook` `n8n` `MATLAB`
-
----
+**ML & LLMs** vLLM, Ollama, FP8 inference, RAG, scikit-learn
+**Optimization** Google OR-Tools, OSRM, route planning
+**Mobile & CV** Google ML Kit, OCR, TTS/STT
 
 ## Experience
 
-### AI/ML Intern — Bonrix Software Systems
+**AI/ML Intern — Bonrix Software Systems** · Jun–Jul 2026
+Built a multi-user LLM assistant on Qwen2.5-7B-Instruct with a 128K-token context window and shared file context up to 300 KB. Deployed long-context inference on cloud GPUs with FP8 to cut memory usage.
 
-**June 2026 – July 2026**
-
-* Developed an enterprise multi-user LLM assistant using ReactJS, FastAPI, vLLM, and Qwen2.5-7B-Instruct.
-* Worked with a **128K-token context window** and shared file context of up to **300 KB**.
-* Deployed long-context inference workloads on Podstack cloud GPUs through SSH.
-* Used FP8 inference to improve GPU memory efficiency.
-* Tested the application with multiple concurrent users.
-
-### Software Development Intern — ScaleTech
-
-**June 2025**
-
-* Developed a full-stack truck-routing optimization platform.
-* Worked with ReactJS, FastAPI, PostgreSQL, K-Means, OSRM, and Google OR-Tools.
-* Tested optimized route generation across 50 customer locations in Ahmedabad.
-* Implemented clustering and route optimization for a two-truck delivery scenario.
-
----
+**Software Development Intern — ScaleTech** · Jun 2025
+Built a truck-routing platform using K-Means clustering, OSRM, and OR-Tools. Generated optimized two-truck routes across 50 delivery locations in Ahmedabad.
 
 ## Projects
 
-| Project                        | Technologies                                             | Links                                                    |
-| ------------------------------ | -------------------------------------------------------- | -------------------------------------------------------- |
-| **ContextGPT**                 | ReactJS, FastAPI, vLLM, Qwen2.5, FP8, Cloud GPU          | [Repository](https://github.com/kiahcodes/ContextGPT)    |
-| **LabelLens**                  | Flutter, FastAPI, Supabase, Google ML Kit, Groq, TTS/STT | [Repository](https://github.com/kiahcodes/LabelLens_app) |
-| **CareerLens**                 | Python, FastAPI, BeautifulSoup, PostgreSQL, Ollama, RAG  | [Repository](https://github.com/kiahcodes/CarrerLens)    |
-| **Truck Routing Optimization** | ReactJS, FastAPI, PostgreSQL, K-Means, OSRM, OR-Tools    | [Repository](https://github.com/kiahcodes/TruckRouting)  |
+| Project | Stack | |
+|---|---|---|
+| **ContextGPT** — long-context LLM assistant | ReactJS, FastAPI, vLLM, Qwen2.5 | [repo](https://github.com/kiahcodes/ContextGPT) |
+| **LabelLens** — voice-driven label reader | Flutter, ML Kit, Groq, TTS/STT | [repo](https://github.com/kiahcodes/LabelLens_app) |
+| **CareerLens** — RAG job-matching tool | Python, FastAPI, PostgreSQL, Ollama | [repo](https://github.com/kiahcodes/CarrerLens) |
+| **Truck Routing** — logistics optimizer | ReactJS, FastAPI, OR-Tools, OSRM | [repo](https://github.com/kiahcodes/TruckRouting) |
 
----
+## Other
 
-## Education
-
-### Institute of Technology, Nirma University
-
-**Bachelor of Technology in Computer Science and Engineering**
-**2024 – 2028**
-
-* **GPA:** 8.77/10
-
-### Relevant Coursework
-
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Database Management Systems
-* Artificial Intelligence and Machine Learning
-* Computer Architecture
-* Statistics
-* Data Communication
-* Java Programming
-
----
-
-## Achievements
-
-* 🥈 Finalist — **Innovate Bharat Hackathon 2026**
-* 💡 Top 50 Team — **Smart India Hackathon 2025 Primary Round**
-* 📈 Qualified for Stage 1 — **WorldQuant International Quant Championship 2026**
-* 🚀 Participant — **HackaMined 2026**
-* 💻 Maximum LeetCode rating: **1480**
-* ⚡ Maximum Codeforces rating: **925**
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/kiah14_/">
-    <img src="https://img.shields.io/badge/LeetCode_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/kiahdmandaliya">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
-
-
----
-
-## Current Focus
-
-* Backend engineering and API design
-* Large language models and RAG
-* AI model optimization and deployment
-* Cloud GPU infrastructure
-* Machine learning and data science
-* Competitive programming
-* Open-source contribution
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://kiahcodes.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-kiahcodes.github.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kiah-mandaliya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiah%20Mandaliya-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:kiahdmandaliya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kiahdmandaliya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<div align="center">
-
-### Building software, exploring AI, and learning continuously.
-
+🥈 Finalist, Innovate Bharat Hackathon 2026 &nbsp;·&nbsp; 💡 Top 50, Smart India Hackathon 2025 &nbsp;·&nbsp; 📈 Stage 1, WorldQuant IQC 2026
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" width="100%"/>
-
-</div>
